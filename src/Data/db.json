@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "user": [
+    {
+      "id": 2,
+      "name": " shreya",
+      "email": "shreya@jhk.com",
+      "phone": "1234567891",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "admin user",
+      "role": "admin",
+      "email": "admin@.com",
+      "phone": "1234567891"
+    },
+    {
+      "name": "AMIT HANAMANT MALI",
+      "email": "amit@gmail.com",
+      "phone": "7558505190",
+      "role": 10,
+      "id": 4
+    },
+    {
+      "name": "prasad",
+      "email": "prasad@gmail.com",
+      "phone": "9321654987",
+      "role": 20,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "omkar thube",
+      "email": "omkar@gmail.com",
+      "phone": "8098765432",
+      "role": "Admin"
+    },
+    {
+      "name": "somesh gavli",
+      "email": "somesh@gmail.com",
+      "phone": "7894590912",
+      "role": "Admin",
+      "id": 7
+    },
+    {
+      "name": "Vaibhav",
+      "email": "vaibhav@mail",
+      "phone": "797854156",
+      "role": "Staff",
+      "id": 8
+    },
+    {
+      "name": "jgf",
+      "email": "baty@gmail.com",
+      "phone": "+681147",
+      "role": "Admin",
+      "id": 9
+    },
+    {
+      "name": "AMIT HANAMANT MALI",
+      "email": "",
+      "phone": "9049300682",
+      "role": "Staff",
+      "id": 11
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
